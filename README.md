@@ -10,7 +10,6 @@
 ![sass](https://img.shields.io/static/v1?logo=sass&logoColor=b5e5e4&label=&message=SASS&color=293d3d&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&logoColor=b5e5e4&label=&message=Git&color=293d3d&style=flat-square)
 
----
 #### Backend Lenguajes & herramientas:
 ![php](https://img.shields.io/static/v1?logo=php&logoColor=e5f9f8&label=&message=PHP&color=42605e&style=flat-square) 
 ![node js](https://img.shields.io/static/v1?logo=node.js&logoColor=e5f9f8&label=&message=Node.Js&color=42605e&style=flat-square) 
@@ -19,7 +18,7 @@
 ![Express](https://img.shields.io/static/v1?logo=express&logoColor=e5f9f8&label=&message=ExpressJS&color=42605e&style=flat-square)
 ![sequelize](https://img.shields.io/static/v1?logo=sequelize&logoColor=e5f9f8&label=&message=Sequelize&color=42605e&style=flat-square)
 
----
+
 #### Actualmente aprendiendo | Interesada en aprender :
 ![typescript](https://img.shields.io/static/v1?logo=typescript&logoColor=b5e5e4&label=&message=TypeScript&color=354c4a&style=flat-square)
 ![mongoDB](https://img.shields.io/static/v1?logo=mongodb&logoColor=b5e5e4&label=&message=MongoDB&color=354c4a&style=flat-square)
