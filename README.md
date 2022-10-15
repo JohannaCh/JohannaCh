@@ -1,4 +1,4 @@
-## Hola, soy Joha! &nbsp;&nbsp;<sup> 🏷️ &#12299; Junior Frontend Developer</sup>
+## Hola, soy Joha! &nbsp;&nbsp;<sup> 🏷️ &#12299; Frontend Developer</sup>
 
 
 #### Lenguajes & herramientas:
