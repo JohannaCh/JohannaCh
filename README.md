@@ -4,11 +4,11 @@
 #### Lenguajes & herramientas:
 ![javascript](https://img.shields.io/static/v1?logo=javascript&logoColor=b5e5e4&label=&message=Javascript&color=293d3d&style=flat-square) 
 ![typescript](https://img.shields.io/static/v1?logo=typescript&logoColor=b5e5e4&label=&message=TypeScript&color=354c4a&style=flat-square)
-![html](https://img.shields.io/static/v1?logo=html5&logoColor=b5e5e4&label=&message=HTML5&color=293d3d&style=flat-square)
-![css](https://img.shields.io/static/v1?logo=css3&logoColor=b5e5e4&label=&message=CSS&color=293d3d&style=flat-square)
 ![react](https://img.shields.io/static/v1?logo=react&logoColor=b5e5e4&label=&message=React&color=293d3d&style=flat-square)
-![bootstrap](https://img.shields.io/static/v1?logo=bootstrap&logoColor=b5e5e4&label=&message=Bootstrap&color=293d3d&style=flat-square)
+![nexts](https://img.shields.io/static/v1?logo=next.js&logoColor=b5e5e4&label=&message=Bootstrap&color=293d3d&style=flat-square)
 ![sass](https://img.shields.io/static/v1?logo=sass&logoColor=b5e5e4&label=&message=SASS&color=293d3d&style=flat-square)
+![bootstrap](https://img.shields.io/static/v1?logo=bootstrap&logoColor=b5e5e4&label=&message=Bootstrap&color=293d3d&style=flat-square)
+![html](https://img.shields.io/static/v1?logo=html5&logoColor=b5e5e4&label=&message=HTML5&color=293d3d&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&logoColor=b5e5e4&label=&message=Git&color=293d3d&style=flat-square)
 
 #### Backend Lenguajes & herramientas:
