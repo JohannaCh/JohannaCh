@@ -5,6 +5,7 @@
 ![javascript](https://img.shields.io/static/v1?logo=javascript&logoColor=b5e5e4&label=&message=Javascript&color=00A98F&style=flat-square) 
 ![typescript](https://img.shields.io/static/v1?logo=typescript&logoColor=b5e5e4&label=&message=TypeScript&color=00A98F&style=flat-square)
 ![react](https://img.shields.io/static/v1?logo=react&logoColor=b5e5e4&label=&message=React&color=00A98F&style=flat-square)
+![redux](https://img.shields.io/static/v1?logo=redux&logoColor=b5e5e4&label=&message=Redux&color=00A98F&style=flat-square)
 ![nexts](https://img.shields.io/static/v1?logo=next.js&logoColor=b5e5e4&label=&message=Next.js&color=00A98F&style=flat-square)
 ![vite](https://img.shields.io/static/v1?logo=vite&logoColor=b5e5e4&label=&message=Vite&color=00A98F&style=flat-square)
 ![mui](https://img.shields.io/static/v1?logo=mui&logoColor=b5e5e4&label=&message=Mui&color=00A98F&style=flat-square)
@@ -37,4 +38,4 @@
   <img align="left" alt="linkedin" width="25px" src="https://simpleicons.now.sh/linkedin/00A98F" />
 </a> 
 
-| &nbsp;&nbsp;&nbsp; Proyecto reciente: [Terra Rossa](https://github.com/MatiasGonzalez1/grupo_2_JLAM.git) 
+| &nbsp;&nbsp;&nbsp; Proyecto reciente: [Calendar App](https://github.com/JohannaCh/calendarApp) 
