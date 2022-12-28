@@ -17,6 +17,7 @@
 #### Backend Lenguajes & herramientas:
 ![php](https://img.shields.io/static/v1?logo=php&logoColor=e5f9f8&label=&message=PHP&color=037C65&style=flat-square) 
 ![node js](https://img.shields.io/static/v1?logo=node.js&logoColor=e5f9f8&label=&message=Node.Js&color=037C65&style=flat-square) 
+![mongoDB](https://img.shields.io/static/v1?logo=mongodb&logoColor=b5e5e4&label=&message=MongoDB&color=037C65&style=flat-square)
 ![MYSQL](https://img.shields.io/static/v1?logo=mysql&logoColor=e5f9f8&label=&message=MySQL&color=037C65&style=flat-square)
 ![MariaDB](https://img.shields.io/static/v1?logo=mariadb&logoColor=e5f9f8&label=&message=MariaDB&color=037C65&style=flat-square)
 ![Express](https://img.shields.io/static/v1?logo=express&logoColor=e5f9f8&label=&message=ExpressJS&color=037C65&style=flat-square)
@@ -24,7 +25,6 @@
 
 
 #### Actualmente aprendiendo | Interesada en aprender :
-![mongoDB](https://img.shields.io/static/v1?logo=mongodb&logoColor=b5e5e4&label=&message=MongoDB&color=037C65&style=flat-square)
 
 
 ---
